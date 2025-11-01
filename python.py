@@ -1,30 +1,6 @@
-def add(a, b):
-    return a + b
-print(add(5, 3))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# def add(a, b):
+#     return a + b
+# print(add(5, 3))
 
 
 # name = input("Enter your name: ")
@@ -56,3 +32,18 @@ print(add(5, 3))
 #     app.run(debug=True)
 
 # print(9000)
+# id =1 
+# query = "SELECT * FROM users WHERE id = {0}; DROP TABLE users; --"
+
+# print(query.format(id))
+
+
+# num1  = "10"
+# num2 = "20" 
+# sum = num1 + num2
+# print("The sum is: " + str(sum))
+
+mesage = "Hello, {} I am {} years old."
+print(mesage.format("Bormey", 25))
+
+
